@@ -13,7 +13,7 @@ Follow these steps ahead and its supposed to work.
 * 4 After installing the dependencies lets start cloning the git repo with following command:
 'git clone https://gitlab.com/xonotic/xonotic.git'
 
-* 5 Do: 'cd xonotic'
+* 5 Do: `cd xonotic`
 
 * 6 Then: './all update -l best'
 
