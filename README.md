@@ -25,7 +25,7 @@ Done downloading and updating now lets compile
 
 To run the game always open the mingw64.exe shortcut and do `./all run`
 
-In case u have some missing textures followingthe next steps
+In case u have some missing textures follow the next steps
 
 * 1 You must be in xonotic folder, if u are not just do `cd xonotic`
 
